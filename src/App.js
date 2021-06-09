@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Loading from './Loading';
 import Tours from './Tours';
 
+// This API has a list of Tours which are preconfigured
 const url = 'https://course-api.com/react-tours-project';
 
 function App() {
